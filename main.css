@@ -50,6 +50,11 @@ header p {
     padding-left: 35px;
 }
 
+.research-image{
+    background-image: url('http://jdallmann.github.io/IMG_20141211_184940.jpg');
+  }
+
+
 .jumbotron h2 {
   font-weight: 700;
   margin: 0;
